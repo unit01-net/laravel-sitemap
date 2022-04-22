@@ -1,5 +1,5 @@
 {
-    "name": "laravelium/sitemap",
+    "name": "unit01-net/sitemap",
     "description": "Laravelium Sitemap package for Laravel.",
     "homepage": "https://laravelium.com",
     "keywords": ["laravelium", "laravel", "php", "sitemap", "generator", "xml", "html", "google-news"],
@@ -23,7 +23,7 @@
         "illuminate/filesystem": "^8.0"
     },
     "require-dev": {
-        "laravel/framework": "^8.0",
+        "laravel/framework": "^9.0",
         "phpunit/phpunit": "^9.3",
         "orchestra/testbench-core": "^6.0",
         "php-coveralls/php-coveralls" : "^2.2"
